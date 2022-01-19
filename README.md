@@ -1,5 +1,4 @@
-
-# A simple SMART on FHIR application written in React, communicating with open.dips.no. 
+ A simple SMART on FHIR application written in React, communicating with open.dips.no. 
 
 ## Get started
 
