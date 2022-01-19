@@ -8,6 +8,9 @@
 
 The app will automatically reload if you change any of the source files.
 
+## API
+For subscription key and client id please visit open.dips.no or contact open@dips.no
+
 
 
 
